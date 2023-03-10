@@ -22,7 +22,7 @@ function Layout() {
                     </li>
                     <li>
                         <h1>Lotion</h1>
-                        <h2>Like Notion, but worse...</h2>
+                        <h2>Like Notion, but not even functional...</h2>
                     </li>
                     <li></li>
                 </ul>
